@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ListaDAO
+comment1.params=
+comment1.target=ListaDAO()
+comment2.params=obj
+comment2.target=void\ inserirLista(entities.Pessoa)
+comment3.params=obj
+comment3.target=void\ inserirLista(entities.Aluno)
+comment4.params=id\ obj
+comment4.target=void\ alterarPessoa(int,\ entities.Pessoa)
+comment5.params=id\ obj
+comment5.target=void\ alterarAluno(int,\ entities.Aluno)
+comment6.params=
+comment6.target=java.util.List\ mostrarLista()
+comment7.params=lista
+comment7.target=void\ atualizaLista(java.util.List)
+numComments=8
